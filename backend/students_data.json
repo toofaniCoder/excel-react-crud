@@ -1,0 +1,103 @@
+[
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "standard": 10,
+      "section": "A",
+      "roll": 1,
+      "address1": "123 Main St",
+      "address2": "Apt 1"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone": "098-765-4321",
+      "standard": 11,
+      "section": "B",
+      "roll": 2,
+      "address1": "456 Oak St",
+      "address2": "Apt 2B"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicej@example.com",
+      "phone": "111-222-3333",
+      "standard": 12,
+      "section": "C",
+      "roll": 3,
+      "address1": "789 Pine St",
+      "address2": "Suite 100"
+    },
+    {
+      "name": "Bob Brown",
+      "email": "bobbrown@example.com",
+      "phone": "444-555-6666",
+      "standard": 9,
+      "section": "D",
+      "roll": 4,
+      "address1": "321 Elm St",
+      "address2": "123 abcd"
+    },
+    {
+      "name": "Cathy Davis",
+      "email": "cathyd@example.com",
+      "phone": "777-888-9999",
+      "standard": 8,
+      "section": "E",
+      "roll": 5,
+      "address1": "654 Maple St",
+      "address2": "Apt 5"
+    },
+    {
+      "name": "David Wilson",
+      "email": "davidw@example.com",
+      "phone": "000-111-2222",
+      "standard": 7,
+      "section": "F",
+      "roll": 6,
+      "address1": "987 Cedar St",
+      "address2": "Apt 10"
+    },
+    {
+      "name": "Emma Thomas",
+      "email": "emmat@example.com",
+      "phone": "333-444-5555",
+      "standard": 6,
+      "section": "G",
+      "roll": 7,
+      "address1": "111 Birch St",
+      "address2": "Apt 8"
+    },
+    {
+      "name": "Frank Miller",
+      "email": "frankm@example.com",
+      "phone": "666-777-8888",
+      "standard": 5,
+      "section": "H",
+      "roll": 8,
+      "address1": "222 Spruce St",
+      "address2": "xyz 500"
+    },
+    {
+      "name": "Grace Lee",
+      "email": "gracel@example.com",
+      "phone": "999-000-1111",
+      "standard": 4,
+      "section": "I",
+      "roll": 9,
+      "address1": "333 Walnut St",
+      "address2": "Apt 4"
+    },
+    {
+      "name": "Henry King",
+      "email": "henryk@example.com",
+      "phone": "222-333-4444",
+      "standard": 3,
+      "section": "J",
+      "roll": 10,
+      "address1": "444 Chestnut St",
+      "address2": "Apt 7"
+    }
+  ]
+  
